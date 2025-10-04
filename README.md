@@ -26,20 +26,15 @@ The idea has assist on detected dangerous items in one room. The problem is the 
 The solution has used for people protect. The system there are in every room that thesis there are danger from another people. For example in one mini market. The system has check the people who come inside to mini market. it could to detection for dangerous items so that avoiding the danger and the robbery. The solustion used in one enviroment with kids and one enviroment with payments. For successful this we must receive in consideration what species room is this and the users is the security and police. The users has check the plans and scans from people and the ask for this items the people that have items.
 
 
-
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The data has collected from machines from scan and from cameras. The system has training from this data and collect the data from check. Basically we collect data with API and next we send a data to security and police. 
+
+[Zapier](https://zapier.com/)
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+
 
 ## What next?
 
