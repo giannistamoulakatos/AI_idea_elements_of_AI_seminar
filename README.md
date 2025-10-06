@@ -39,7 +39,7 @@ The project does not solve the direct people help. namely when detection one dan
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The project could regognition robber. for this we need one database with robber faces wherever the AI takes the images do comparison and detected the robbers in one room. For this we must fix the system to take data not only from API but and from database wherever there are data from robber and the past from another people and from them. 
 
 
 ## Acknowledgments
