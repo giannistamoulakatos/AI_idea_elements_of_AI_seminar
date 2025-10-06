@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Detection damgerous items of AI
+# Detection dangerous items of AI
 
 One idea for detection dangerous items in one room
 
@@ -34,6 +34,7 @@ The data has collected from machines from scan and from cameras. The system has 
 
 ## Challenges
 
+The project does not solve the direct people help. namely when detection one dangerous item is not notify directly because the check it must detailed check and for goal use item. In addition for the cameras side there are some limitations per continent and country found. for example in europe we dont put cameras in rooms without permission because we have a GDPR law. One ethical consideration that must should be taken is the fear feel. the system is not regognition one situation wherever are fear in people. The fear detection it could with cameras with detection face from people. from this we detection the fear in people in one room. 
 
 
 ## What next?
