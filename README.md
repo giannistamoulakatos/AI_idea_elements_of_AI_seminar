@@ -10,7 +10,6 @@ One idea for detection dangerous items in one room
 
 It will do check in one room and it will detected the dangerous items in one room. Mainly items can hurt people. it will have one camera for detected the dangerous items in a room 
 
-
 ## Background
 
 The idea has assist on detected dangerous items in one room. The problem is the not safety places where are people go and with kids them, Also the are people that they have a dangerous items and they go inside in one place with another people and with kids. Naturally we don't know the people goal. The motivation for the idea is the murders that do late night in rooms from people in people that not wait and in road. This is important issue because the more from them events i'ts not easy detect immediately.
