@@ -12,12 +12,12 @@ It will do check in one room and it will detected the dangerous items in one roo
 
 ## Background
 
-The idea has assist on detected dangerous items in one room. The problem is the not safety places where are people go and with kids them, Also the are people that they have a dangerous items and they go inside in one place with another people and with kids. Naturally we don't know the people goal. The motivation for the idea is the murders that do late night in rooms from people in people that not wait and in road. This is important issue because the more from them events i'ts not easy detect immediately.
+The idea has assist on detected dangerous items in one room. The problem is the not safety places where are people go and with kids them, Also the are people that they have a dangerous items and they go inside in one place with another people and with kids. Naturally we don't know the people goal. The motivation for the idea is the murders that do late night in rooms from people in people that not wait and on the street. This is important issue because the more from them events i'ts not easy detect immediately.
 
 ### problems
 
-* No check the places are they safety
-* No check the people that they going to places and rooms with another people and people with kids them
+* Don't check the places are they safety
+* Don't check the people that they going to places and rooms with another people and people with kids them
 
 
 ## How is it used?
