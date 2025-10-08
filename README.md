@@ -4,11 +4,11 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Detection dangerous items of AI
 
-One idea for detection dangerous items in one room
+One idea for detection dangerous items in one room.
 
 ## Summary
 
-It will do check in one room and it will detected the dangerous items in one room. Mainly items can hurt people. it will have one camera and one scanner for detected the dangerous items in a room 
+It will do check in one room and it will detected the dangerous items in one room. Mainly items can hurt people. it will have one camera and one scanner for detected the dangerous items in a room. 
 
 ## Background
 
@@ -22,7 +22,7 @@ The idea has assist on detected dangerous items in one room. The problem is the 
 
 ## How is it used?
 
-The solution has used for people protect. The system there are in every room that thesis there are danger from another people. For example in one mini market. The system has check the people who come inside to mini market. it could to detection for dangerous items so that avoiding the danger and the robbery. The solustion used in one enviroment with kids and one enviroment with payments. For successful this we must receive in consideration what species room is this and the users is the security and police. The users has check the plans and scans from people and the ask for this items the people that have items.
+The solution will used for people protect. The system there are in every room that thesis there are danger from another people. For example in one mini market. The system has check the people who come inside to mini market. it could to detection for dangerous items so that avoiding the danger and the robbery. The solustion used in one enviroment with kids and one enviroment with payments. For successful this we must receive in consideration what species room is this and the users is the security and police. The users has check the plans and scans from people and the ask for this items the people that have items.
 
 
 ## Data sources and AI methods
