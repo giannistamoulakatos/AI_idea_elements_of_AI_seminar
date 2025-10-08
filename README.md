@@ -44,3 +44,4 @@ The project could regognition robber. for this we need one database with robber 
 ## Acknowledgments
 
 * [elements of AI projects](https://buildingai.elementsofai.com/Conclusion/ai-idea-gallery)
+* [AI-based recognition of dangerous goods labels and metric package features](https://www.econstor.eu/bitstream/10419/249618/1/hicl-2021-31-245.pdf)
