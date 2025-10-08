@@ -8,7 +8,7 @@ One idea for detection dangerous items in one room
 
 ## Summary
 
-It will do check in one room and it will detected the dangerous items in one room. Mainly items can hurt people. it will have one camera for detected the dangerous items in a room 
+It will do check in one room and it will detected the dangerous items in one room. Mainly items can hurt people. it will have one camera and one scanner for detected the dangerous items in a room 
 
 ## Background
 
@@ -27,18 +27,18 @@ The solution has used for people protect. The system there are in every room tha
 
 ## Data sources and AI methods
 
-The data has collected from machines from scan and from cameras. The system has training from this data and collect the data from check. Basically we collect data with API and next we send a data to security and police. 
+The data has collected from machines from scan and from cameras. The system has training from this data and collect the data from check. Basically we collect data with API and next we send a data to security and police. The data has collect with webhook.
 
 [Zapier](https://zapier.com/)
 
 ## Challenges
 
-The project does not solve the direct people help. namely when detection one dangerous item is not notify directly because the check it must detailed check and for goal use item. In addition for the cameras side there are some limitations per continent and country found. for example in europe we dont put cameras in rooms without permission because we have a GDPR law. One ethical consideration that must should be taken is the fear feel. the system is not regognition one situation wherever are fear in people. The fear detection it could with cameras with detection face from people. from this we detection the fear in people in one room. 
+The project does not solve the direct people help. namely when detection one dangerous item is not notify directly because the check it must detailed check and for goal use item. In addition for the cameras side there are some limitations per continent and country found. for example in europe we dont put cameras in rooms without permission because we have a GDPR law. One ethical consideration that must should be taken is the fear feel. the system is not regognition one situation wherever are fear in people. The fear detection it could with cameras with detection face from people. from this we will understand the fear in people in one room. 
 
 
 ## What next?
 
-The project could regognition robber. for this we need one database with robber faces wherever the AI takes the images do comparison and detected the robbers in one room. For this we must fix the system to take data not only from API but and from database wherever there are data from robber and the past from another people and from them. 
+The project could regognition robber. for this we need one database with robber faces wherever the AI takes the images do comparison and detected the robbers in one room. For this we must fix the system to take data not only from API but and from database wherever there are data from robber and from past, from another people and from them. 
 
 
 ## Acknowledgments
