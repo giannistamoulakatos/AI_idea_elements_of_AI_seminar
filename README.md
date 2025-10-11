@@ -10,6 +10,9 @@ One idea for detection dangerous items in one room.
 
 It will do check in one room and it will detected the dangerous items in one room. Mainly items can hurt people. it will have one camera and one scanner for detected the dangerous items in a room. 
 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drawing_of_a_CCTV_Camera.JPG" width="200">
+The image from PhoneixS
+
 ## Background
 
 The idea has assist on detected dangerous items in one room. The problem is the not safety places where are people go and with kids them, Also the are people that they have a dangerous items and they go inside in one place with another people and with kids. Naturally we don't know the people goal. The motivation for the idea is the murders that do late night in rooms from people in people that not wait and on the street. This is important issue because the more from them events i'ts not easy detect immediately.
@@ -24,6 +27,8 @@ The idea has assist on detected dangerous items in one room. The problem is the 
 
 The solution will used for people protect. The system there are in every room that thesis there are danger from another people. For example in one mini market. The system has check the people who come inside to mini market. it could to detection for dangerous items so that avoiding the danger and the robbery. The solustion used in one enviroment with kids and one enviroment with payments. For successful this we must receive in consideration what species room is this and the users is the security and police. The users has check the plans and scans from people and the ask for this items the people that have items.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/CCTV_still_seconds_before_gunman_shoots_in_robb_elementary_school.jpg" width="700">
+The image is from Robb elementary school
 
 ## Data sources and AI methods
 
@@ -45,3 +50,5 @@ The project could regognition robber. for this we need one database with robber 
 
 * [elements of AI projects](https://buildingai.elementsofai.com/Conclusion/ai-idea-gallery)
 * [AI-based recognition of dangerous goods labels and metric package features](https://www.econstor.eu/bitstream/10419/249618/1/hicl-2021-31-245.pdf)
+* [link image 1 school](https://commons.wikimedia.org/wiki/File:CCTV_still_seconds_before_gunman_shoots_in_robb_elementary_school.jpg)
+* [link image 2 camera](https://commons.wikimedia.org/wiki/File:Drawing_of_a_CCTV_Camera.svg)
